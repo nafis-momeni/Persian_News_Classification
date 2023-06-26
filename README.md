@@ -24,6 +24,7 @@ Make sure you have the following dependencies installed:
 - `scikit-learn` library (install via `pip install scikit-learn`)
 - `matplotlib` library (install via `pip install matplotlib`)
 - `seaborn` library (install via `pip install seaborn`)
+- `hazm` library (install via `pip install hazm`)
 
 ## Usage
 
@@ -36,16 +37,13 @@ Make sure you have the following dependencies installed:
 
    - Set up the environment with the required dependencies.
    - Update the file paths and hyperparameters in the training script (`train_model.ipynb`) according to your specific setup.
-   - Run the training script: `python train_model.ipynb`
+   - Run : `python train_model.ipynb`
    - The trained model will be saved to drive.
 
 3. **Model Reuse**:
-   - Set up the environment with the required dependencies.
-   - Convert the input data in the described format.
    - Update the file paths and hyperparameters in the test script (`test_model.ipynb`) according to your specific setup.
-   - Run the test script: `python test_model.ipynb`
+   - Run : `python test_model.ipynb`
    - The trained model will be used to predict labels for new data.
-   - The evaluation metrics accuracy, F1 score, and confusion matrix will be created.
 
 ## Resources
 
