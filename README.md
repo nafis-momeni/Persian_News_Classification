@@ -50,6 +50,3 @@ Make sure you have the following dependencies installed:
 - Hugging Face library: [https://huggingface.co/transformers/](https://huggingface.co/transformers/)
 - `HooshvareLab/bert-fa-base-uncased-clf-persiannews` model: [https://huggingface.co/HooshvareLab/bert-fa-base-uncased-clf-persiannews](https://huggingface.co/HooshvareLab/bert-fa-base-uncased-clf-persiannews)
 
-## License
-
-This project is licensed under the MIT License. See the [
